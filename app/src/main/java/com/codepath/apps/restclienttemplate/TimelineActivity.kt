@@ -11,6 +11,7 @@ import com.codepath.asynchttpclient.callback.JsonHttpResponseHandler
 import okhttp3.Headers
 import org.json.JSONException
 
+
 class TimelineActivity : AppCompatActivity() {
 
     lateinit var client: TwitterClient
